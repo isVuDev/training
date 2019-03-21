@@ -1,10 +1,10 @@
 {
-  "devToolsPort": 19003,
+  "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 15195,
+  "packagerPid": 25687,
   "expoServerNgrokUrl": "https://fe-xfp.anonymous.camera.exp.direct",
   "packagerNgrokUrl": "https://packager.fe-xfp.anonymous.camera.exp.direct",
-  "ngrokPid": 15248,
+  "ngrokPid": 25742,
   "webpackServerPort": null
 }
