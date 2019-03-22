@@ -3,7 +3,7 @@
 + 0 workplace rules :
 
 	- scan your id card for arrival and leave time everyday
-	- ask your direct-supervisor for task, ask IT department for some account permission, bla bla bla everything 
+	- ask your direct-supervisor for task (Training tasks on LIS need to be made), ask IT department for some account permission, bla bla bla everything 
 	- LIS : + make timesheet and log in task everyday
 		 ( commit at least 42 hours a week ) 
 		+ fix bug is a re-work activity
